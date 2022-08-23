@@ -1,10 +1,10 @@
 # Employee Polls Project
 
-Run "npm install" to install all dependencies to make the launch of the project work
+Run `npm install` to install all dependencies to make the launch of the project work
 
-You can launch the project with "npm start"
+You can launch the project with `npm start`
 
-Try to run the tests with "npm test"
+Try to run the tests with `npm test`
 
 This app is designed to create and answering polls. You can decide between option One and option Two
 
